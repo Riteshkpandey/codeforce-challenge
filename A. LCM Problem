@@ -10,7 +10,7 @@ Each test case is represented  by one line containing two integers l and r (1≤
 Output
 For each test case, print two integers:
 
-if it is impossible to find integers x and y meeting the constraints in the statement, print two integers equal to −1;
+if it is impossible to find integers x and y meeting the constraints in the  statement, print two integers equal to −1;
 otherwise, print the values of x and y (if there are multiple valid answers, you may print any of them).
 
 
