@@ -5,7 +5,7 @@ You are given two integers l and r. Find two integers x and y such that l≤x<y�
 Input
 The first line contains one integer t (1≤t≤10000) — the number of test cases.
 
-Each test case is represented by one line containing two integers l and r (1≤l<r≤109).
+Each test case is represented  by one line containing two integers l and r (1≤l<r≤109).
 
 Output
 For each test case, print two integers:
